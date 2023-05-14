@@ -1,7 +1,7 @@
 - Hi, I’m Sarthak Shukla.
 - I’m interested in learning new things. 
 - I’m currently learning web development. 
-- I’m looking to collaborate with people from whom i can learn.
+- I’m looking to collaborate with people from whom i can learn and become a better version of myself.
 - How to reach me: LinkediN : https://www.linkedin.com/in/sarthak-shukla-60a37b260
 
 <!---
